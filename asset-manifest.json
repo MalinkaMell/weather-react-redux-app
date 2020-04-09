@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/weather-react-redux-app/static/css/main.6f3dfdda.chunk.css",
-    "main.js": "/weather-react-redux-app/static/js/main.7f34e2df.chunk.js",
-    "main.js.map": "/weather-react-redux-app/static/js/main.7f34e2df.chunk.js.map",
+    "main.js": "/weather-react-redux-app/static/js/main.cbac266e.chunk.js",
+    "main.js.map": "/weather-react-redux-app/static/js/main.cbac266e.chunk.js.map",
     "runtime-main.js": "/weather-react-redux-app/static/js/runtime-main.bfa5d270.js",
     "runtime-main.js.map": "/weather-react-redux-app/static/js/runtime-main.bfa5d270.js.map",
-    "static/js/2.f9dcfbd1.chunk.js": "/weather-react-redux-app/static/js/2.f9dcfbd1.chunk.js",
-    "static/js/2.f9dcfbd1.chunk.js.map": "/weather-react-redux-app/static/js/2.f9dcfbd1.chunk.js.map",
+    "static/js/2.6b7d6d66.chunk.js": "/weather-react-redux-app/static/js/2.6b7d6d66.chunk.js",
+    "static/js/2.6b7d6d66.chunk.js.map": "/weather-react-redux-app/static/js/2.6b7d6d66.chunk.js.map",
     "index.html": "/weather-react-redux-app/index.html",
-    "precache-manifest.90b75e790b63411f7d01b31905a4183e.js": "/weather-react-redux-app/precache-manifest.90b75e790b63411f7d01b31905a4183e.js",
+    "precache-manifest.23f2f7b17d40229d8b091676b108edca.js": "/weather-react-redux-app/precache-manifest.23f2f7b17d40229d8b091676b108edca.js",
     "service-worker.js": "/weather-react-redux-app/service-worker.js",
     "static/css/main.6f3dfdda.chunk.css.map": "/weather-react-redux-app/static/css/main.6f3dfdda.chunk.css.map",
-    "static/js/2.f9dcfbd1.chunk.js.LICENSE.txt": "/weather-react-redux-app/static/js/2.f9dcfbd1.chunk.js.LICENSE.txt"
+    "static/js/2.6b7d6d66.chunk.js.LICENSE.txt": "/weather-react-redux-app/static/js/2.6b7d6d66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bfa5d270.js",
-    "static/js/2.f9dcfbd1.chunk.js",
+    "static/js/2.6b7d6d66.chunk.js",
     "static/css/main.6f3dfdda.chunk.css",
-    "static/js/main.7f34e2df.chunk.js"
+    "static/js/main.cbac266e.chunk.js"
   ]
 }
