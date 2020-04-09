@@ -1,6 +1,8 @@
 # Weather App
 
 Basic weather reactjs app build using provided API.
+Here just added redux to [original non redux app](https://github.com/MalinkaMell/weather-react-app).
+
 
 ### NPM packages used:
 
